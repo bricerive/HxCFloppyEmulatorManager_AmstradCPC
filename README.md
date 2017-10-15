@@ -12,7 +12,7 @@ This program allows to select disc images for the **HxC Floppy Emulator** device
 
 ## History
 
-**Jean-Francois Del Nero** originally created this software ; but while working, it was not convenient for the end-user. A new UI has been created, integration with the system has been improved and a ROM version was also created. Now updated are provided when firmware brings new functionality.
+**Jean-Francois Del Nero** originally created this software ; but while working, it was not convenient for the end-user. A new UI has been created, integration with the system has been improved and a ROM version was also created. New updates on the software are provided when firmware brings new functionality (such as support for a new file format, etc).
 
 ## How to build
 
